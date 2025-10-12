@@ -1,7 +1,7 @@
 ### Hi there 👋
-//[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh7083)](https://solved.ac/pjh7083)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junHyeong7083&show_icons=true&theme=graywhite )
 <!--
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh7083)](https://solved.ac/pjh7083)
 **junHyeong7083/junHyeong7083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
