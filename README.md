@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+## 📫 Contact
+
+[![Mail Badge](https://img.shields.io/badge/Email-parkjunhyeong0902%40gmail.com-black?style=flat-square&logo=gmail)](mailto:parkjunhyeong0902@gmail.com)
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junHyeong7083&show_icons=true&theme=graywhite )
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh7083)](https://solved.ac/pjh7083)
