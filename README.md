@@ -17,7 +17,7 @@
 - 🎮 Unity 기반 **게임 클라이언트 개발** 지망
 - 🛠 산학협력 프로젝트(Hanam_MC)에서 4계층 아키텍처 + STT + LiteDB까지 **1인 풀스택 Unity 개발**
 - 🤖 강화학습(PPO + GAE)·LLM 파인튜닝(QLoRA)·풀스택 AI 플랫폼 등 **AI 영역도 직접 구현**
-- 🎨 버추얼 아이돌 프로젝트(PARACOSMA)에서 **Technical Art**(모캡·페이셜·리타게팅·헤어 물리) 담당
+- 🎨 버추얼 아이돌 프로젝트 PARACOSMA에서 **Technical Art** 경험 ([포폴 보기](https://junhyeong7083.github.io/PortFolio/portfolio/paracosma))
 - 📚 알고리즘(백준 640+ 문제 풀이) 기록 보유
 
 🔗 **[전체 포트폴리오 사이트 보러가기 ➜](https://junhyeong7083.github.io/PortFolio/)**
@@ -69,12 +69,13 @@
 > 서강대 · MENINBLOX · 하남시 정신건강복지센터 산학협력
 > 서강대 측 **1인 단독** Unity 클라이언트 92+ 스크립트, 4계층 아키텍처, Whisper STT, LiteDB
 
-### 🎤 [PARACOSMA — 버추얼 아이돌 (Technical Art)](https://junhyeong7083.github.io/PortFolio/portfolio/paracosma)
-> Unreal Engine 5. Axis Studio 모캡 + iPhone 페이셜 캡쳐 + 헤어 물리 + 리타게팅
-> 그래픽 비전공자로서 TA 포지션 수행 — 엔진에서 직접 검증 후 그래픽팀 디렉션
+### 🍣 [초밥의 법칙 (Sushi Master)](https://github.com/junHyeong7083/ProjectWorkShop-Sushi)
+> 3D 플랫포머. **2주 단기 개발**로 7개 핵심 시스템 완성
+> 베지어 곡선 투사체 / Queue 기반 리플레이 / Cinemachine 컷신 / Google Cloud TTS
 
-### 🐦 [Flappy Bird PPO](https://github.com/junHyeong7083/rl-flappy-bird-train)
-> PyTorch로 PPO 직접 구현. 5,000,000 스텝 학습, 최고 Reward 1,400 / 파이프 300+ 통과
+### 🩸 [Escape — 뱀파이어 서바이벌](https://github.com/junHyeong7083/DeathSurvival)
+> 5분 생존 로그라이크. **3종 캐릭터 × 4개 스킬 = 12개** 스킬 시스템
+> 오브젝트 풀링으로 GC 90% 감소 → 안정적 60fps 유지, 프로시저럴 타일맵 생성
 
 📂 **나머지 프로젝트**: [Portfolio 사이트에서 전체 보기 ➜](https://junhyeong7083.github.io/PortFolio/)
 
@@ -83,11 +84,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=junHyeong7083&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=junHyeong7083&theme=tokyonight" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junHyeong7083&theme=tokyonight&utcOffset=9" height="180" alt="Productive Time" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junHyeong7083&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junHyeong7083&theme=tokyonight" height="180" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junHyeong7083&theme=tokyonight" height="180" alt="Most Commit Language" />
 </p>
+
 
 ---
 
