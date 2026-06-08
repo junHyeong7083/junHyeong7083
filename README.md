@@ -83,10 +83,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junHyeong7083&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junHyeong7083&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=junHyeong7083&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junHyeong7083&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 ---
 
 ## 📫 Contact
