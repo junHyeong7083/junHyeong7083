@@ -5,9 +5,9 @@
   <a href="https://junhyeong7083.github.io/PortFolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-2ea44f?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
-  <a href="mailto:parkjunhyeong0902@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=parkjunhyeong0902@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+</a>
 </p>
 
 ---
